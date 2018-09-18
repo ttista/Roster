@@ -1,0 +1,38 @@
+body{
+    background-color: #F0F8FF;
+}
+
+li{
+  text-decoration: none;
+	display: inline-block;
+	background-color: yellow;
+  border-style: groove;
+  border-color: white;
+  font-weight: bold;
+	color: black;
+}
+
+h1{
+  color: black;
+  font-family: Verdana;
+}
+.current{
+  text-transform: uppercase;
+}
+*{
+  text-decoration: none;
+}
+a:hover{
+  color: yellow;
+  background-color: blue;
+  text-transform: uppercase;
+  border-color: black;
+}
+p{
+  border-style: double;
+  border-color: #DCDCDC;
+}
+.thumb{
+  height: 250px;
+  width: 250px;
+}
