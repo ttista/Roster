@@ -1,0 +1,14 @@
+body{
+    background-color: yellow;
+}
+
+li{
+	text-decoration: none;
+	display:inline;
+	background-color: white;
+	color: black;
+}
+
+h1{
+  color: blue;
+  background-color: white;
